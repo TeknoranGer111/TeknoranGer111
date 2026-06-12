@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ciao, sono TeknoRanger1!
 
-<!--
-**TeknoranGer111/TeknoranGer111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Developer
 
-Here are some ideas to get you started:
+Benvenuto nel mio profilo su GitHub! Sono un ragazzo a cui piace l'informatica, e che ama programmare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Le mie skills
+
+| **Linguaggi** | `Python`, `C#` |
+| **Strumenti** | `GitHub`, `VS Code` |
+
+---
+
+## 📈 Cosa sto facendo in questo periodo...
+
+* 💼 **Lavoro:** Project Friendly come Lead Developer del Team.
+* 🌱 **Sto imparando:** C/C++, Cybersecurity.
+
+---
+
+Controlla i miei repository per vedere cosa sto combinando! Se ti piace quello che vedi, lascia una ⭐.
